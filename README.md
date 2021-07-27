@@ -9,3 +9,6 @@ By selecting Data, then sort, in the excel spreadsheets I was able to order the 
 Through analyzing the data it was determined that only 733 out of 3,959 customers, who gave a one or two star review, put the word 'staff' in their review. 
 
 This is [Customer Rating Pie Chart](Pie Chart.pdf)
+
+Website where data came from: https://www.kaggle.com/dwiknrd/reviewuniversalstudio
+
