@@ -4,4 +4,4 @@ After choosing to look at the data from Universal Stuio cusomer reviews, I looke
 
 "In ratings below a three, what where the persentage that had the key word 'staff' in the review title or text?"
 
-This is [another page](Pie Chart.pdf)
+This is [Customer Rating Pie Chart](Pie Chart.pdf)
