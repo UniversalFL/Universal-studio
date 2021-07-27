@@ -10,5 +10,5 @@ Through analyzing the data it was determined that only 733 out of 3,959 customer
 
 This is [Customer Rating Pie Chart](Pie Chart.pdf)
 
-Website where data came from: https://www.kaggle.com/dwiknrd/reviewuniversalstudio
+The excel spreadsheet was downloaded from this webpage: https://www.kaggle.com/dwiknrd/reviewuniversalstudio
 
